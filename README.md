@@ -1,0 +1,2 @@
+# iykyk
+stock trading strategy
