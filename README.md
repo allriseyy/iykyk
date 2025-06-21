@@ -1,11 +1,13 @@
 # iykyk
-stock trading strategy
-
+stock trading strategy (quantitative trading)
 
 # The ingredients
 
 ## Stock market data
 https://www.financialdatasets.ai/
+
+## Knowledge
+https://www.youtube.com/watch?v=T37YvxMTofc
 
 ## Python
 Python 3.10.12
