@@ -3,23 +3,27 @@ stock trading strategy (quantitative trading)
 
 # How to set up
 1. setup WSL or you can straightaway jump to step 2
-2. create python virtual env
+2. Download Ollama and run the LLM model locally
+```bash
+ollama run llama2
+```
+3. create python virtual env
 ```bash
 python3 -m venv venv
 ```
-3. activate the env
+4. activate the env
 ```bash
 source .venv/bin/activate
 ```
-4. deactivate using
+5. deactivate using
 ```bash
 deactivate
 ```
-5. install the packages
+6. install the packages
 ```bash
 pip3 install -r requirements.txt
 ```
-6. done, you are good to go
+7. done, you are good to go
 
 # Debug
 export the packages to a txt file to be installed later
@@ -37,6 +41,10 @@ https://www.financialdatasets.ai/
 
 #### Stock knowledge
 https://www.youtube.com/watch?v=T37YvxMTofc
+
+#### LLM
+Ollama (llama2) <br>
+https://www.youtube.com/watch?v=UtSSMs6ObqY
 
 #### Inspired by
 https://github.com/virattt/ai-hedge-fund
